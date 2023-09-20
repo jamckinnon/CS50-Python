@@ -1,3 +1,3 @@
-# cs50 python course
+# CS50 python course
 #Tutorial
 #Now Python
